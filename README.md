@@ -49,7 +49,8 @@
 - Format: CSV
 
 ## 📊Data Relationships
-<img width="1629" height="719" alt="image" src="https://github.com/user-attachments/assets/80ac3725-8e07-4044-81ce-0869ef939939" />
+<img width="1590" height="713" alt="image" src="https://github.com/user-attachments/assets/2f66dcbe-33d8-4257-88e0-de66108a9c2d" />
+
 
 
 # Data Processing by Python & Power Bi
@@ -169,16 +170,19 @@ SUMX(total_cancelled_train_trips, [Trips])
 
 # 🗯️Defining Key Questions before Data Visualization
 ## Step 1 & Step 2
-<img width="1226" height="692" alt="image" src="https://github.com/user-attachments/assets/db2aec8f-a323-44a7-aee7-a3290ed9c625" />
+<img width="1218" height="682" alt="image" src="https://github.com/user-attachments/assets/6e74e78a-0306-49d4-a463-cc5c24cd4f47" />
+
 
 
 ## Detailed Step 2
-<img width="1225" height="696" alt="image" src="https://github.com/user-attachments/assets/14252383-345e-4ad9-aedf-c1fa5af41745" />
+<img width="1226" height="684" alt="image" src="https://github.com/user-attachments/assets/b0e2a671-4246-4294-b813-46bc3738c778" />
+
 
 
 # 📊Key Insights & Visualizations
 ## I. Overview
-<img width="1300" height="730" alt="Page 1" src="https://github.com/user-attachments/assets/6375b753-d74f-4fd3-907f-80b18299a1eb" />
+<img width="1300" height="730" alt="Page 1" src="https://github.com/user-attachments/assets/9e65e40f-dd45-4d20-bc91-45fbc34d69e1" />
+
 
 
 
@@ -209,7 +213,8 @@ SUMX(total_cancelled_train_trips, [Trips])
     
     => **`London is the central hub of railway services in the UK, not only contributing high passenger volume, but also generating large net revenue`**
 ## II. Behavior Analysis: Peak Travel Times
-<img width="1299" height="731" alt="Page 2" src="https://github.com/user-attachments/assets/007515af-0cd7-4d34-a89f-9f7f219fd715" />
+<img width="1299" height="731" alt="Page 2" src="https://github.com/user-attachments/assets/bc4218c4-f415-42c6-81f6-ed5b5166ba19" />
+
 
 
 ## 📌Key Findings:
@@ -236,7 +241,8 @@ aligning with daily activities: commuting to work or school.
     => **`Train services show stable demand, but it fluctuates significantly at specific time slots within the peak hours.`**
 
 ## III. Operation Analysis: Diagnose on-time performance and contributing factors
-<img width="1301" height="723" alt="Page 3" src="https://github.com/user-attachments/assets/625b777f-788c-460a-b081-189945aa700d" />
+<img width="1301" height="723" alt="Page 3" src="https://github.com/user-attachments/assets/dc1bee87-15f6-4c90-bdcc-9b39549bb457" />
+
 
 
 ## 📌Key Findings:
@@ -261,7 +267,8 @@ aligning with daily activities: commuting to work or school.
   => **`These factors directly affect OTP and passenger experience, causing delays up to 180 minutes`**
 
 ## IV. Route Analysis: Identify the most popular routes
-<img width="1302" height="726" alt="Page 4 - Ticket Sales" src="https://github.com/user-attachments/assets/ab8ed765-495a-4306-9cab-56cc284fe697" />
+<img width="1302" height="726" alt="Page 4 - Ticket Sales" src="https://github.com/user-attachments/assets/47982889-3142-4186-925d-ae461b9e79f3" />
+
 
 ## 📌Key Findings — Ticket Sales & Revenue Contribution
 
@@ -298,7 +305,8 @@ aligning with daily activities: commuting to work or school.
 
 </details>
 
-<img width="1301" height="722" alt="Page 4 - Operational Efficiency" src="https://github.com/user-attachments/assets/feb14b9d-9db3-460f-be2c-897ab0341f8d" />
+<img width="1301" height="722" alt="Page 4 - Operational Efficiency" src="https://github.com/user-attachments/assets/318afe08-b3a2-47dd-9db5-4ac081ecd39a" />
+
 
 
 ## 📌Key Findings — Operational Efficiency
@@ -338,7 +346,8 @@ aligning with daily activities: commuting to work or school.
 3️⃣ **Bristol** , **Reading** and **Edinburghm** show `stable on-time performance (OTP)`. Howver, passenger volume and revenue remain extremely low. The primary reason is `low market demand`, it's not about `operational performance`, and these routes currently haven't delivered any meaningful business value.
 
 ## V. Action Strategies
-<img width="1299" height="727" alt="Page 5" src="https://github.com/user-attachments/assets/3ca6c91f-44e4-4306-bc95-63414edcb34b" />
+<img width="1299" height="727" alt="Page 5" src="https://github.com/user-attachments/assets/3bef2867-e097-46b0-ad05-ce317a7d4b47" />
+
 
 
 # 💡Recommendations
