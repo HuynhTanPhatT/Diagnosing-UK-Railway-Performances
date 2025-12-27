@@ -1,5 +1,5 @@
 # 🚂UK Rail Transport: Diagnosing Ticket Sales, Revenue & On-Time Performance (12/2023 - 05/2024)
-- Author: Huỳnh Tấn Phát - Transportation Data Analyst (Revenue • Operations • Reliability)
+- Author: Huỳnh Tấn Phát **(Transportation Data Analyst)**
 - Date: 12/2025
 - Tool Used: **Python**, **Power Bi**
   - `Python`: Pandas, Numpy, Datetime
